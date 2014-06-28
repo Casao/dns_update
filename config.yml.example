@@ -1,0 +1,12 @@
+AWS:
+  access_key_id: "<access_key_here>""
+  secret_access_key: "<secret_key_here>>"
+Zone:
+  "example.com.":
+    - "www"
+    - "wwx"
+    - "wwy"
+  "example.net.":
+    - "www"
+    - "wwx"
+    - "wwy"
